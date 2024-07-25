@@ -1,0 +1,9 @@
+{
+    "Number of checks": 1,
+    "Statistics": {
+        "IFCRELASSOCIATESMATERIAL.ALLOWEDELEMENTS": 1,
+        "IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31": 1,
+        "IFCSPATIALSTRUCTUREELEMENT.WR41": 1
+    },
+    "Unknown": []
+}
