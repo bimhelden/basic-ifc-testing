@@ -1,14 +1,17 @@
 {
-    "Number of checks": 2,
+    "Number of checks": 3,
     "Statistics": {
         "IFCGEOGRAPHICELEMENTTYPE.CORRECTPREDEFINEDTYPE": 1,
         "IFCRELASSOCIATESMATERIAL.ALLOWEDELEMENTS": 2,
         "IFCRELASSOCIATESMATERIAL.NOVOIDELEMENT": 1,
         "IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31": 1,
         "IFCSPATIALSTRUCTUREELEMENT.WR41": 1,
+        "PSET_IFC2X3_10": 1,
         "SYNTAX_VALIDATION_1": 1,
         "SYNTAX_VALIDATION_11": 1,
         "SYNTAX_VALIDATION_35": 1
     },
-    "Unknown": []
+    "Unknown": [
+        "PSET_IFC2X3_10"
+    ]
 }
