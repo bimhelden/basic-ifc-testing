@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statistics Bar Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1, h4 {
+            text-align: center;
+        }
+        h4 {
+            font-weight: normal;
+        }
+        #chart-container {
+            width: 80%;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Darstellung der Prüfergebnisse</h1>
+    <h4>Quelle: https://github.com/bimhelden/basic-ifc-testing/blob/main/Fehlerdokumentation/chk-statistics.json</h4>
+    <div id="chart-container">
+        <canvas id="statisticsChart"></canvas>
+    </div>
+    <script>
+        const jsonUrl = 'https://raw.githubusercontent.com/bimhelden/basic-ifc-testing/main/Fehlerdokumentation/chk-statistics.json';
+
+        fetch(jsonUrl)
+            .then(response => response.json())
+            .then(data => {
+                const numberOfChecks = data["Number of checks"];
+                const statistics = data.Statistics;
+                const sortedStatistics = Object.entries(statistics)
+                    .sort(([, a], [, b]) => b - a); // Sort by integer value in descending order
+
+                const labels = sortedStatistics.map(([key]) => key);
+                const values = sortedStatistics.map(([, value]) => value);
+                const percentages = values.map(value => Math.round((value / numberOfChecks) * 100));
+
+                const ctx = document.getElementById('statisticsChart').getContext('2d');
+                new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: 'Häufigkeit des Auftretens',
+                            data: values,
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            x: {
+                                grid: {
+                                    display: false
+                                }
+                            },
+                            y: {
+                                grid: {
+                                    display: false
+                                },
+                                beginAtZero: true,
+                                ticks: {
+                                    stepSize: 1,
+                                    callback: function(value) { if (Number.isInteger(value)) { return value; } }
+                                }
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            tooltip: {
+                                callbacks: {
+                                    label: function(context) {
+                                        const index = context.dataIndex;
+                                        return `${values[index]} Fehler bei ${numberOfChecks} geprüften Modellen, ${percentages[index]}% Fehlerhäufigkeit`;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                });
+            })
+            .catch(error => console.error('Fehler beim Lesen der JSON-Datei:', error));
+    </script>
+</body>
+</html>
