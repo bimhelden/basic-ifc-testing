@@ -1,5 +1,5 @@
 {
-    "Number of checks": 13,
+    "Number of checks": 14,
     "Statistics": {
         "HEADER_03": 5,
         "IFCAXIS2PLACEMENT3D.AXISANDREFDIRPROVISION": 1,
@@ -29,11 +29,11 @@
         "IFCUNITARYEQUIPMENTTYPE.CORRECTPREDEFINEDTYPE": 2,
         "IfcRoot.UR1": 1,
         "PSET_IFC2X3_07": 2,
-        "PSET_IFC2X3_10": 2,
+        "PSET_IFC2X3_10": 3,
         "SYNTAX_VALIDATION_1": 3,
         "SYNTAX_VALIDATION_11": 3,
         "SYNTAX_VALIDATION_35": 2,
-        "SYNTAX_VALIDATION_38": 1,
+        "SYNTAX_VALIDATION_38": 2,
         "SYNTAX_VALIDATION_43": 1,
         "SYNTAX_VALIDATION_46": 2
     },
