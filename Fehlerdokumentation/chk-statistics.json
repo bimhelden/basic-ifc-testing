@@ -30,9 +30,9 @@
         "SYNTAX_VALIDATION_1": 3,
         "SYNTAX_VALIDATION_11": 3,
         "SYNTAX_VALIDATION_35": 2,
-        "SYNTAX_VALIDATION_38": 2,
+        "SYNTAX_VALIDATION_38": 1,
         "SYNTAX_VALIDATION_43": 1,
-        "SYNTAX_VALIDATION_46": 2
+        "SYNTAX_VALIDATION_46": 3
     },
     "Unknown": [
         "HEADER_03",
