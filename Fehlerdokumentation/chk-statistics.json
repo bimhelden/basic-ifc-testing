@@ -1,8 +1,8 @@
 {
-    "Number of checks": 18,
+    "Number of checks": 19,
     "Statistics": {
         "HEADER_02": 1,
-        "HEADER_03": 6,
+        "HEADER_03": 7,
         "IFCAXIS2PLACEMENT3D.AXISANDREFDIRPROVISION": 1,
         "IFCBOOLEANRESULT.SECONDOPERANDCLOSED": 1,
         "IFCBUILDINGELEMENTPROXYTYPE.CORRECTPREDEFINEDTYPE": 4,
@@ -40,7 +40,7 @@
         "SYNTAX_VALIDATION_38": 3,
         "SYNTAX_VALIDATION_43": 1,
         "SYNTAX_VALIDATION_46": 3,
-        "SYNTAX_VALIDATION_49": 1
+        "SYNTAX_VALIDATION_49": 2
     },
     "Unknown": [
         "PSET_IFC2X3_07",
