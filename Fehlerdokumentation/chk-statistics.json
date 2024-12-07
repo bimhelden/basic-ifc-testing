@@ -1,5 +1,5 @@
 {
-    "Number of checks": 31,
+    "Number of checks": 32,
     "Statistics": {
         "HEADER_02": 4,
         "HEADER_03": 8,
@@ -15,6 +15,7 @@
         "IFCEDGELOOP.ISCLOSED": 1,
         "IFCEDGELOOP.ISCONTINUOUS": 1,
         "IFCELECTRICAPPLIANCETYPE.CORRECTPREDEFINEDTYPE": 1,
+        "IFCELEMENTQUANTITY.UNIQUEQUANTITYNAMES": 1,
         "IFCFURNITURETYPE.CORRECTPREDEFINEDTYPE": 1,
         "IFCGEOGRAPHICELEMENTTYPE.CORRECTPREDEFINEDTYPE": 1,
         "IFCGRIDAXIS.WR2": 1,
@@ -39,10 +40,10 @@
         "PSET_IFC2X3_07": 3,
         "PSET_IFC2X3_10": 5,
         "PSET_IFC4_06": 2,
-        "PSET_IFC4_07": 3,
+        "PSET_IFC4_07": 4,
         "SCHEMA_IFC2X3_01": 1,
-        "SYNTAX_VALIDATION_1": 8,
-        "SYNTAX_VALIDATION_11": 8,
+        "SYNTAX_VALIDATION_1": 9,
+        "SYNTAX_VALIDATION_11": 9,
         "SYNTAX_VALIDATION_13": 1,
         "SYNTAX_VALIDATION_35": 5,
         "SYNTAX_VALIDATION_38": 6,
