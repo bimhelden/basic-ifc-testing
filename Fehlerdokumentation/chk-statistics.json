@@ -1,5 +1,5 @@
 {
-    "Number of checks": 29,
+    "Number of checks": 30,
     "Statistics": {
         "HEADER_02": 4,
         "HEADER_03": 8,
@@ -21,7 +21,7 @@
         "IFCPOSITIVERATIOMEASURE.WR1": 1,
         "IFCPRODUCT.PLACEMENTFORSHAPEREPRESENTATION": 1,
         "IFCPROPERTYSET.UNIQUEPROPERTYNAMES": 5,
-        "IFCPROPERTYSET.WR32": 1,
+        "IFCPROPERTYSET.WR32": 2,
         "IFCQUANTITYAREA.WR22": 2,
         "IFCQUANTITYLENGTH.WR22": 2,
         "IFCQUANTITYVOLUME.WR22": 2,
@@ -35,24 +35,29 @@
         "IFCUNITARYEQUIPMENTTYPE.CORRECTPREDEFINEDTYPE": 2,
         "IFCWALL.CORRECTPREDEFINEDTYPE": 4,
         "IFCWALL.CORRECTTYPEASSIGNED": 2,
-        "IfcRoot.UR1": 1,
-        "PSET_IFC2X3_07": 2,
+        "IfcRoot.UR1": 2,
+        "PSET_IFC2X3_07": 3,
         "PSET_IFC2X3_10": 5,
         "PSET_IFC4_06": 2,
         "PSET_IFC4_07": 3,
+        "SCHEMA_IFC2X3_01": 1,
         "SYNTAX_VALIDATION_1": 7,
         "SYNTAX_VALIDATION_11": 7,
+        "SYNTAX_VALIDATION_13": 1,
         "SYNTAX_VALIDATION_35": 4,
-        "SYNTAX_VALIDATION_38": 5,
-        "SYNTAX_VALIDATION_43": 1,
+        "SYNTAX_VALIDATION_38": 6,
+        "SYNTAX_VALIDATION_43": 2,
         "SYNTAX_VALIDATION_46": 3,
-        "SYNTAX_VALIDATION_49": 2
+        "SYNTAX_VALIDATION_49": 2,
+        "SYNTAX_VALIDATION_55": 1,
+        "SYNTAX_VALIDATION_66": 1
     },
     "Unknown": [
         "IFCCHILLERTYPE.CORRECTPREDEFINEDTYPE",
         "PSET_IFC2X3_07",
         "PSET_IFC2X3_10",
         "PSET_IFC4_06",
-        "PSET_IFC4_07"
+        "PSET_IFC4_07",
+        "SCHEMA_IFC2X3_01"
     ]
 }
