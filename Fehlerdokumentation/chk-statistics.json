@@ -41,7 +41,6 @@
         "PSET_IFC2X3_10": 5,
         "PSET_IFC4_06": 2,
         "PSET_IFC4_07": 5,
-        "PSET_IFC4_08": 1,
         "SCHEMA_IFC2X3_01": 1,
         "SYNTAX_VALIDATION_1": 9,
         "SYNTAX_VALIDATION_11": 9,
@@ -50,7 +49,7 @@
         "SYNTAX_VALIDATION_38": 6,
         "SYNTAX_VALIDATION_43": 2,
         "SYNTAX_VALIDATION_46": 3,
-        "SYNTAX_VALIDATION_49": 2,
+        "SYNTAX_VALIDATION_49": 3,
         "SYNTAX_VALIDATION_55": 1,
         "SYNTAX_VALIDATION_66": 1
     },
@@ -60,7 +59,6 @@
         "PSET_IFC2X3_10",
         "PSET_IFC4_06",
         "PSET_IFC4_07",
-        "PSET_IFC4_08",
         "SCHEMA_IFC2X3_01"
     ]
 }
