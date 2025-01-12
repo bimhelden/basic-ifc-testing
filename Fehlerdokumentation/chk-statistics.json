@@ -1,5 +1,5 @@
 {
-    "Number of checks": 34,
+    "Number of checks": 35,
     "Statistics": {
         "HEADER_02": 4,
         "HEADER_03": 9,
@@ -44,13 +44,14 @@
         "PSET_IFC4_07": 6,
         "SCHEMA_IFC2X3_01": 1,
         "SYNTAX_VALIDATION_1": 10,
+        "SYNTAX_VALIDATION_10": 1,
         "SYNTAX_VALIDATION_11": 10,
         "SYNTAX_VALIDATION_13": 1,
         "SYNTAX_VALIDATION_35": 5,
         "SYNTAX_VALIDATION_38": 6,
         "SYNTAX_VALIDATION_43": 2,
-        "SYNTAX_VALIDATION_46": 3,
-        "SYNTAX_VALIDATION_49": 3,
+        "SYNTAX_VALIDATION_46": 4,
+        "SYNTAX_VALIDATION_49": 4,
         "SYNTAX_VALIDATION_55": 1,
         "SYNTAX_VALIDATION_66": 1
     },
