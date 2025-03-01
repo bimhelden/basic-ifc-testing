@@ -1,8 +1,8 @@
 {
-    "Number of checks": 35,
+    "Number of checks": 36,
     "Statistics": {
         "HEADER_02": 4,
-        "HEADER_03": 9,
+        "HEADER_03": 10,
         "IFCALARMTYPE.CORRECTPREDEFINEDTYPE": 1,
         "IFCAXIS2PLACEMENT3D.AXISANDREFDIRPROVISION": 1,
         "IFCBOOLEANRESULT.SECONDOPERANDCLOSED": 1,
@@ -51,7 +51,7 @@
         "SYNTAX_VALIDATION_38": 6,
         "SYNTAX_VALIDATION_43": 2,
         "SYNTAX_VALIDATION_46": 4,
-        "SYNTAX_VALIDATION_49": 4,
+        "SYNTAX_VALIDATION_49": 5,
         "SYNTAX_VALIDATION_55": 1,
         "SYNTAX_VALIDATION_66": 1
     },
