@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./MVDChecker.xsl"?>
+<MVDReport>
+  <MVDObjectStatisticSet>
+    <MVDObjectStatistic>
+      <ObjectName>IFCFOOTING</ObjectName>
+      <Count>8</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCROOF</ObjectName>
+      <Count>3</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCRAILING</ObjectName>
+      <Count>29</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCSANITARYTERMINAL</ObjectName>
+      <Count>22</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCSTAIR</ObjectName>
+      <Count>2</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCSLAB</ObjectName>
+      <Count>15</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCSTAIRFLIGHT</ObjectName>
+      <Count>4</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCWINDOW</ObjectName>
+      <Count>59</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCBUILDING</ObjectName>
+      <Count>1</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCBUILDINGELEMENTPROXY</ObjectName>
+      <Count>88</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCGROUP</ObjectName>
+      <Count>22</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCSPACE</ObjectName>
+      <Count>110</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCFURNITURE</ObjectName>
+      <Count>212</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCSITE</ObjectName>
+      <Count>1</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCOPENINGELEMENT</ObjectName>
+      <Count>584</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCWALL</ObjectName>
+      <Count>356</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCBUILDINGSTOREY</ObjectName>
+      <Count>5</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCDOOR</ObjectName>
+      <Count>70</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCCOVERING</ObjectName>
+      <Count>17</Count>
+    </MVDObjectStatistic>
+  </MVDObjectStatisticSet>
+  <MVDFullStatisticSet>
+    <MVDFullStatistic>
+      <InstanceName>IFCWALL</InstanceName>
+      <Count>356</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSLAB</InstanceName>
+      <Count>15</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSANITARYTERMINALTYPE</InstanceName>
+      <Count>4</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPROJECT</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSPACETYPE</InstanceName>
+      <Count>110</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCFURNITURETYPE</InstanceName>
+      <Count>37</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCFURNITURE</InstanceName>
+      <Count>212</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCGROUP</InstanceName>
+      <Count>22</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCBUILDINGELEMENTPROXY</InstanceName>
+      <Count>88</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDOORLININGPROPERTIES</InstanceName>
+      <Count>17</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSANITARYTERMINAL</InstanceName>
+      <Count>22</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSPACE</InstanceName>
+      <Count>110</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSLABTYPE</InstanceName>
+      <Count>15</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCBUILDINGSTOREY</InstanceName>
+      <Count>5</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCBUILDING</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCOVERING</InstanceName>
+      <Count>17</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELVOIDSELEMENT</InstanceName>
+      <Count>584</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCOVERINGTYPE</InstanceName>
+      <Count>17</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELDEFINESBYPROPERTIES</InstanceName>
+      <Count>504</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDOORTYPE</InstanceName>
+      <Count>17</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCWINDOWLININGPROPERTIES</InstanceName>
+      <Count>18</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSITE</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELASSOCIATESCLASSIFICATION</InstanceName>
+      <Count>19</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPROPERTYSET</InstanceName>
+      <Count>569</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDOORPANELPROPERTIES</InstanceName>
+      <Count>17</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDOOR</InstanceName>
+      <Count>70</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCOPENINGELEMENT</InstanceName>
+      <Count>584</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCWALLTYPE</InstanceName>
+      <Count>12</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCBUILDINGELEMENTPROXYTYPE</InstanceName>
+      <Count>12</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSTAIRTYPE</InstanceName>
+      <Count>2</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSTAIRFLIGHT</InstanceName>
+      <Count>4</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCWINDOWTYPE</InstanceName>
+      <Count>18</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSTAIRFLIGHTTYPE</InstanceName>
+      <Count>4</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSTAIR</InstanceName>
+      <Count>2</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPERSON</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCFOOTINGTYPE</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCQUANTITYLENGTH</InstanceName>
+      <Count>7</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELASSIGNSTOGROUP</InstanceName>
+      <Count>22</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCWINDOW</InstanceName>
+      <Count>59</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDERIVEDUNIT</InstanceName>
+      <Count>9</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELFILLSELEMENT</InstanceName>
+      <Count>128</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCLASSIFICATIONREFERENCE</InstanceName>
+      <Count>19</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDIMENSIONALEXPONENTS</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELDEFINESBYTYPE</InstanceName>
+      <Count>279</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSIUNIT</InstanceName>
+      <Count>18</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCROOF</InstanceName>
+      <Count>3</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELAGGREGATES</InstanceName>
+      <Count>8</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELCONTAINEDINSPATIALSTRUCTURE</InstanceName>
+      <Count>68</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMEASUREWITHUNIT</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCROOFTYPE</InstanceName>
+      <Count>3</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMATERIAL</InstanceName>
+      <Count>38</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMONETARYUNIT</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCOWNERHISTORY</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDERIVEDUNITELEMENT</InstanceName>
+      <Count>25</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPERSONANDORGANIZATION</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCAPPLICATION</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRAILINGTYPE</InstanceName>
+      <Count>27</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCFOOTING</InstanceName>
+      <Count>8</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELASSOCIATESMATERIAL</InstanceName>
+      <Count>282</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMATERIALCONSTITUENT</InstanceName>
+      <Count>785</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCLASSIFICATION</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPROPERTYSINGLEVALUE</InstanceName>
+      <Count>240</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRAILING</InstanceName>
+      <Count>29</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMATERIALCONSTITUENTSET</InstanceName>
+      <Count>262</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCORGANIZATION</InstanceName>
+      <Count>2</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCONVERSIONBASEDUNIT</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCUNITASSIGNMENT</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+  </MVDFullStatisticSet>
+  <MVDHeader>
+    <Filename>Input.ifc</Filename>
+    <CheckOption>IFC4</CheckOption>
+    <FileDescriptions>
+      <FileDescription>ExchangeRequirement [Architecture]</FileDescription>
+      <FileDescription>ViewDefinition [ReferenceView_V1.2]</FileDescription>
+    </FileDescriptions>
+    <SpfCreationDate>2024-02-19T14:45:21</SpfCreationDate>
+    <OriginatingSystem>22.0.2.392 - Exporter 22.0.2.392 - Alternativ-UI 22.0.2.392</OriginatingSystem>
+    <ReportCreationDate>07 March 2024, 12:53:14</ReportCreationDate>
+    <MVDVersionNumber>1.1.0 - 04-June-2019</MVDVersionNumber>
+    <ViewDefinitions>
+      <ViewDefinition>ReferenceView_V1.2</ViewDefinition>
+    </ViewDefinitions>
+    <ExchangeRequirements>
+      <ExchangeRequirement>Architecture</ExchangeRequirement>
+    </ExchangeRequirements>
+    <Schema>IFC4</Schema>
+  </MVDHeader>
+  <MVDMessageSet>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2RD0eaBt55uOt3j646QRaY</GUID>
+      <Instance>#364760=IFCSPACE('2RD0eaBt55uOt3j646QRaY',#42,'BGF R NE2:BGF R NE2:3626627',$,'BGF R NE2:BGF R NE2',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#364760=IFCSPACE('2RD0eaBt55uOt3j646QRaY',#42,'BGF R NE2:BGF R NE2:3626627',$,'BGF R NE2:BGF R NE2',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>17mrJQjlH9Qx4QAWGGEgDH</GUID>
+      <Instance>#365146=IFCSPACE('17mrJQjlH9Qx4QAWGGEgDH',#42,'BGF EG Terrasse:BGF EG Terrasse:3647814',$,'BGF EG Terrasse:BGF EG Terrasse',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#365146=IFCSPACE('17mrJQjlH9Qx4QAWGGEgDH',#42,'BGF EG Terrasse:BGF EG Terrasse:3647814',$,'BGF EG Terrasse:BGF EG Terrasse',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2xvKO0YOL5x9ce8XPaE8oo</GUID>
+      <Instance>#364998=IFCSPACE('2xvKO0YOL5x9ce8XPaE8oo',#42,'Allgemeines Modell 4:Allgemeines Modell 4:3629007',$,'Allgemeines Modell 4:Allgemeines Modell 4',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#364998=IFCSPACE('2xvKO0YOL5x9ce8XPaE8oo',#42,'Allgemeines Modell 4:Allgemeines Modell 4:3629007',$,'Allgemeines Modell 4:Allgemeines Modell 4',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762GIZ</GUID>
+      <Instance>#365718=IFCSPACE('2BCxxFoMf9BONil_762GIZ',#42,'BGF R NE3:BGF R NE2:3658374',$,'BGF R NE3:BGF R NE2',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#365718=IFCSPACE('2BCxxFoMf9BONil_762GIZ',#42,'BGF R NE3:BGF R NE2:3658374',$,'BGF R NE3:BGF R NE2',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762GII</GUID>
+      <Instance>#366078=IFCSPACE('2BCxxFoMf9BONil_762GII',#42,'Allgemeines Modell 8:Allgemeines Modell 4:3658423',$,'Allgemeines Modell 8:Allgemeines Modell 4',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#366078=IFCSPACE('2BCxxFoMf9BONil_762GII',#42,'Allgemeines Modell 8:Allgemeines Modell 4:3658423',$,'Allgemeines Modell 8:Allgemeines Modell 4',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762GH7</GUID>
+      <Instance>#365604=IFCSPACE('2BCxxFoMf9BONil_762GH7',#42,'Allgemeines Modell 6:Allgemeines Modell 3:3658338',$,'Allgemeines Modell 6:Allgemeines Modell 3',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#365604=IFCSPACE('2BCxxFoMf9BONil_762GH7',#42,'Allgemeines Modell 6:Allgemeines Modell 3:3658338',$,'Allgemeines Modell 6:Allgemeines Modell 3',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2RD0eaBt55uOt3j646QRra</GUID>
+      <Instance>#364639=IFCSPACE('2RD0eaBt55uOt3j646QRra',#42,'BGF R NE1:BGF R NE1:3625669',$,'BGF R NE1:BGF R NE1',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#364639=IFCSPACE('2RD0eaBt55uOt3j646QRra',#42,'BGF R NE1:BGF R NE1:3625669',$,'BGF R NE1:BGF R NE1',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762GI3</GUID>
+      <Instance>#365954=IFCSPACE('2BCxxFoMf9BONil_762GI3',#42,'BGF R NE4:BGF R NE2:3658406',$,'BGF R NE4:BGF R NE2',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#365954=IFCSPACE('2BCxxFoMf9BONil_762GI3',#42,'BGF R NE4:BGF R NE2:3658406',$,'BGF R NE4:BGF R NE2',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>17mrJQjlH9Qx4QAWGGEgF3</GUID>
+      <Instance>#365263=IFCSPACE('17mrJQjlH9Qx4QAWGGEgF3',#42,'BGF EG Terasse:BGF EG Terasse:3647956',$,'BGF EG Terasse:BGF EG Terasse',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#365263=IFCSPACE('17mrJQjlH9Qx4QAWGGEgF3',#42,'BGF EG Terasse:BGF EG Terasse:3647956',$,'BGF EG Terasse:BGF EG Terasse',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>1e0$YjMff249we_y8l0xXs</GUID>
+      <Instance>#364516=IFCSPACE('1e0$YjMff249we_y8l0xXs',#42,'BGF R Technik EG:BGF R Technik EG:3624520',$,'BGF R Technik EG:BGF R Technik EG',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#364516=IFCSPACE('1e0$YjMff249we_y8l0xXs',#42,'BGF R Technik EG:BGF R Technik EG:3624520',$,'BGF R Technik EG:BGF R Technik EG',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762GIo</GUID>
+      <Instance>#365842=IFCSPACE('2BCxxFoMf9BONil_762GIo',#42,'Allgemeines Modell 7:Allgemeines Modell 4:3658391',$,'Allgemeines Modell 7:Allgemeines Modell 4',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#365842=IFCSPACE('2BCxxFoMf9BONil_762GIo',#42,'Allgemeines Modell 7:Allgemeines Modell 4:3658391',$,'Allgemeines Modell 7:Allgemeines Modell 4',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762GHn</GUID>
+      <Instance>#365494=IFCSPACE('2BCxxFoMf9BONil_762GHn',#42,'Allgemeines Modell 5:Allgemeines Modell 3:3658324',$,'Allgemeines Modell 5:Allgemeines Modell 3',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#365494=IFCSPACE('2BCxxFoMf9BONil_762GHn',#42,'Allgemeines Modell 5:Allgemeines Modell 3:3658324',$,'Allgemeines Modell 5:Allgemeines Modell 3',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762GMS</GUID>
+      <Instance>#366188=IFCSPACE('2BCxxFoMf9BONil_762GMS',#42,'Allgemeines Modell 9:Allgemeines Modell 9:3658681',$,'Allgemeines Modell 9:Allgemeines Modell 9',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#366188=IFCSPACE('2BCxxFoMf9BONil_762GMS',#42,'Allgemeines Modell 9:Allgemeines Modell 9:3658681',$,'Allgemeines Modell 9:Allgemeines Modell 9',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2xvKO0YOL5x9ce8XPaE8Xd</GUID>
+      <Instance>#364877=IFCSPACE('2xvKO0YOL5x9ce8XPaE8Xd',#42,'Allgemeines Modell 3:Allgemeines Modell 3:3627802',$,'Allgemeines Modell 3:Allgemeines Modell 3',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#364877=IFCSPACE('2xvKO0YOL5x9ce8XPaE8Xd',#42,'Allgemeines Modell 3:Allgemeines Modell 3:3627802',$,'Allgemeines Modell 3:Allgemeines Modell 3',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>17mrJQjlH9Qx4QAWGGEg2x</GUID>
+      <Instance>#365380=IFCSPACE('17mrJQjlH9Qx4QAWGGEg2x',#42,'BGF EG Terrasse 2:BGF EG Terrasse 2:3648172',$,'BGF EG Terrasse 2:BGF EG Terrasse 2',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#365380=IFCSPACE('17mrJQjlH9Qx4QAWGGEg2x',#42,'BGF EG Terrasse 2:BGF EG Terrasse 2:3648172',$,'BGF EG Terrasse 2:BGF EG Terrasse 2',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762GEg</GUID>
+      <Instance>#366649=IFCSPACE('2BCxxFoMf9BONil_762GEg',#42,'Allgemeines Modell 13:Allgemeines Modell 13:3659151',$,'Allgemeines Modell 13:Allgemeines Modell 13',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#366649=IFCSPACE('2BCxxFoMf9BONil_762GEg',#42,'Allgemeines Modell 13:Allgemeines Modell 13:3659151',$,'Allgemeines Modell 13:Allgemeines Modell 13',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#400806=IFCRELCONTAINEDINSPATIALSTRUCTURE('1sbc2RTovAMBUaBmyWxiTr',#42,$,$,(#81541,#81976,#72247,#73616,#82238,#75268,#76667,#82338,#79973,#73716,#82076,#72351,#76767,#75368,#326960,#329914,#328481,#328371,#330024,#328151,#329804,#328261,#330134,#82654,#87351,#79873,#81658,#81859,#83099,#82501,#83216,#90649,#230173,#230284,#230395,#230562,#231350,#83316,#235483,#83501,#234696,#155849,#88699,#84632,#85346,#88875,#88223,#86051,#83686,#86414,#161559,#247640,#161710,#84817,#84226,#83862,#183645,#86882,#86240,#183494,#85716,#85531,#85866,#87067,#86708,#234522,#235332,#88412,#303699,#287832,#287681,#288622,#291447,#303526,#288773,#71984,#91326,#227665,#227810,#94655,#98115,#98365,#98242,#123338,#126703,#130725,#130224,#130391,#130558,#130053,#134743,#130892,#134405,#134576,#131059,#135077,#135244,#134910,#135411,#162537,#165866,#166340,#166517,#166039,#163750,#164618,#165749,#168984,#169101,#169276,#177316,#174350,#176461,#180060,#175593,#175959,#176898,#175842,#175284,#177199,#176134,#174701,#175111,#180914,#174994,#177535,#171825,#182042,#183923,#181825,#181708,#234429,#156295,#229181,#234877,#243487,#237790,#239832,#241553,#239588,#245013,#277333,#277691,#240073,#241308,#277518,#277864,#239330,#285114,#290467,#290796,#278145,#291125,#305998,#329151,#292609,#245739,#245826,#245482,#245626,#245909,#246188,#246105,#246018,#278391,#285347,#291042,#290713,#291360,#292874,#306242,#307002,#308471,#307701,#308678,#307929,#307822,#309013,#309116,#308243,#307594,#308032,#308906,#309220,#307175,#308785,#308136,#308574,#307490,#307339,#308364,#326731,#329384,#365494,#389249,#389790,#388706,#394237,#393856,#394618,#395063,#395444,#395825,#396270,#396651,#397477,#397032,#397858,#398239),#169)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762G3$</GUID>
+      <Instance>#367462=IFCSPACE('2BCxxFoMf9BONil_762G3$',#42,'Allgemeines Modell 20:Allgemeines Modell 16:3659482',$,'Allgemeines Modell 20:Allgemeines Modell 16',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#367462=IFCSPACE('2BCxxFoMf9BONil_762G3$',#42,'Allgemeines Modell 20:Allgemeines Modell 16:3659482',$,'Allgemeines Modell 20:Allgemeines Modell 16',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#400594=IFCRELCONTAINEDINSPATIALSTRUCTURE('1sbc2RTovAMBUaBmyWxiW7',#42,$,$,(#12140,#12384,#25964,#14089,#17101,#26228,#22015,#25523,#15797,#14189,#15897,#17201,#26064,#20554,#22115,#26328,#28146,#26493,#25847,#63299,#28263,#63482,#20387,#71390,#55672,#71625,#25642,#63599,#275222,#26614,#26789,#26960,#27977,#27762,#29010,#29387,#62872,#39566,#39751,#29186,#28363,#40747,#41067,#41240,#41414,#55388,#55950,#63077,#28835,#28650,#275322,#276089,#276290,#162011,#161860,#162161,#162312,#285773,#297966,#285924,#298117,#300107,#71758,#91024,#227140,#227291,#101667,#101846,#101969,#111950,#108577,#105271,#115638,#115471,#115300,#115805,#119652,#119825,#115972,#116139,#116306,#119992,#135661,#142374,#139641,#136911,#139163,#138990,#138873,#137768,#142082,#139464,#142199,#149184,#144899,#149511,#148159,#149009,#147749,#148334,#147398,#148892,#149949,#150477,#150594,#150819,#148042,#148643,#150373,#155045,#154157,#155162,#154928,#155279,#153322,#232057,#232348,#275818,#155542,#155375,#228024,#302963,#305119,#305360,#247262,#260881,#326237,#255980,#287302,#382197,#295498,#295263,#295964,#299381,#300303,#303208,#295731,#297273,#305767,#247499,#259407,#275507,#275674,#287539,#297595,#297512,#296199,#300536,#303439,#305684,#305601,#311504,#326631,#326492,#328736,#328819,#328653,#328570,#328985,#329068,#328902,#364516,#364877,#382394,#382482,#390616,#391442,#390235,#390997,#393030,#392204,#392649,#391823,#393411,#399065,#399446,#398684),#163)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#401050=IFCRELCONTAINEDINSPATIALSTRUCTURE('3E63geJ8j32xPlIjg7ZRFW',#42,$,$,(#188731,#193605,#194302,#185680,#184421,#194040,#187332,#184523,#188831,#187432,#194402,#192037,#194140,#185780,#191937,#193722,#193923,#199424,#194718,#201397,#195186,#194565,#195069,#231688,#231855,#231466,#231577,#231945,#253425,#195286,#199140,#253599,#197300,#197670,#283203,#283354,#197820,#197485,#195471,#198194,#198368,#204561,#195656,#195832,#196787,#200144,#226392,#226543,#198781,#198955,#200333,#200620,#198005,#196602,#196033,#288188,#304152,#299616,#290008,#290159,#289369,#288037,#292965,#304325,#293140,#289520,#184210,#254500,#254891,#227957,#206646,#209413,#207514,#205433,#208762,#208645,#208935,#209236,#211997,#212172,#211880,#223812,#214721,#217597,#218855,#220214,#218738,#219030,#217890,#218489,#218180,#218007,#219796,#220097,#219359,#217246,#222958,#220433,#224940,#224723,#224606,#226821,#201493,#201914,#202037,#201668,#202219,#201791,#202386,#203388,#203054,#203221,#202553,#202887,#202720,#203722,#203889,#204223,#204056,#203555,#204390,#204798,#300619,#304471,#304712,#298371,#281307,#280075,#282366,#280260,#284516,#299054,#299787,#300860,#298727,#294945,#306325,#329467,#293969,#293311,#294627,#293640,#294298,#253780,#284815,#293557,#293886,#294215,#294544,#294862,#295180,#298971,#300020,#299298,#301187,#301104,#303981,#305036,#304953,#306569,#310097,#310304,#310639,#310953,#309869,#310411,#309658,#310200,#310532,#310742,#310846,#311074,#311284,#311388,#311181,#309327,#309762,#309555,#309448,#309990,#326818,#329700,#365604),#175)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762G2J</GUID>
+      <Instance>#367117=IFCSPACE('2BCxxFoMf9BONil_762G2J',#42,'Allgemeines Modell 17:Allgemeines Modell 13:3659446',$,'Allgemeines Modell 17:Allgemeines Modell 13',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#367117=IFCSPACE('2BCxxFoMf9BONil_762G2J',#42,'Allgemeines Modell 17:Allgemeines Modell 13:3659446',$,'Allgemeines Modell 17:Allgemeines Modell 13',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762G0d</GUID>
+      <Instance>#366766=IFCSPACE('2BCxxFoMf9BONil_762G0d',#42,'Allgemeines Modell 14:Allgemeines Modell 14:3659266',$,'Allgemeines Modell 14:Allgemeines Modell 14',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#366766=IFCSPACE('2BCxxFoMf9BONil_762G0d',#42,'Allgemeines Modell 14:Allgemeines Modell 14:3659266',$,'Allgemeines Modell 14:Allgemeines Modell 14',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762G21</GUID>
+      <Instance>#367000=IFCSPACE('2BCxxFoMf9BONil_762G21',#42,'Allgemeines Modell 16:Allgemeines Modell 16:3659428',$,'Allgemeines Modell 16:Allgemeines Modell 16',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#367000=IFCSPACE('2BCxxFoMf9BONil_762G21',#42,'Allgemeines Modell 16:Allgemeines Modell 16:3659428',$,'Allgemeines Modell 16:Allgemeines Modell 16',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELASSOCIATESMATERIAL.ALLOWEDELEMENTS</MessageCode>
+      <Instance>#402697=IFCRELASSOCIATESMATERIAL('1nqgxZ3mr3jh8P5f0K5FRs',#42,$,$,(#364502,#364516,#364639,#364743,#364980,#364864,#364877,#364622,#364760,#364998,#365718,#366078,#365481,#365937,#366060,#365494,#365591,#365701,#365954,#365842,#365604,#365824,#366171,#366403,#366304,#366420,#366517,#366534,#366287,#366188),#364504)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelassociatesmaterial.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELASSOCIATESMATERIAL.ALLOWEDELEMENTS' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762G9p</GUID>
+      <Instance>#366420=IFCSPACE('2BCxxFoMf9BONil_762G9p',#42,'Allgemeines Modell 11:Allgemeines Modell 9:3658838',$,'Allgemeines Modell 11:Allgemeines Modell 9',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#366420=IFCSPACE('2BCxxFoMf9BONil_762G9p',#42,'Allgemeines Modell 11:Allgemeines Modell 9:3658838',$,'Allgemeines Modell 11:Allgemeines Modell 9',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762G97</GUID>
+      <Instance>#366534=IFCSPACE('2BCxxFoMf9BONil_762G97',#42,'Allgemeines Modell 12:Allgemeines Modell 10:3658850',$,'Allgemeines Modell 12:Allgemeines Modell 10',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#366534=IFCSPACE('2BCxxFoMf9BONil_762G97',#42,'Allgemeines Modell 12:Allgemeines Modell 10:3658850',$,'Allgemeines Modell 12:Allgemeines Modell 10',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762G0I</GUID>
+      <Instance>#366883=IFCSPACE('2BCxxFoMf9BONil_762G0I',#42,'Allgemeines Modell 15:Allgemeines Modell 15:3659319',$,'Allgemeines Modell 15:Allgemeines Modell 15',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#366883=IFCSPACE('2BCxxFoMf9BONil_762G0I',#42,'Allgemeines Modell 15:Allgemeines Modell 15:3659319',$,'Allgemeines Modell 15:Allgemeines Modell 15',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762G3d</GUID>
+      <Instance>#367232=IFCSPACE('2BCxxFoMf9BONil_762G3d',#42,'Allgemeines Modell 18:Allgemeines Modell 14:3659458',$,'Allgemeines Modell 18:Allgemeines Modell 14',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#367232=IFCSPACE('2BCxxFoMf9BONil_762G3d',#42,'Allgemeines Modell 18:Allgemeines Modell 14:3659458',$,'Allgemeines Modell 18:Allgemeines Modell 14',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762G3h</GUID>
+      <Instance>#367347=IFCSPACE('2BCxxFoMf9BONil_762G3h',#42,'Allgemeines Modell 19:Allgemeines Modell 15:3659470',$,'Allgemeines Modell 19:Allgemeines Modell 15',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#367347=IFCSPACE('2BCxxFoMf9BONil_762G3h',#42,'Allgemeines Modell 19:Allgemeines Modell 15:3659470',$,'Allgemeines Modell 19:Allgemeines Modell 15',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCSPATIALSTRUCTUREELEMENT.WR41</MessageCode>
+      <GUID>2BCxxFoMf9BONil_762G9X</GUID>
+      <Instance>#366304=IFCSPACE('2BCxxFoMf9BONil_762G9X',#42,'Allgemeines Modell 10:Allgemeines Modell 10:3658820',$,'Allgemeines Modell 10:Allgemeines Modell 10',$,$,$,$,NOTDEFINED,$)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</InstanceLink>
+      <ObjectInstance>#366304=IFCSPACE('2BCxxFoMf9BONil_762G9X',#42,'Allgemeines Modell 10:Allgemeines Modell 10:3658820',$,'Allgemeines Modell 10:Allgemeines Modell 10',$,$,$,$,NOTDEFINED,$)</ObjectInstance>
+      <ObjectInstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcspace.htm</ObjectInstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCSPATIALSTRUCTUREELEMENT.WR41' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418276=IFCRELCONTAINEDINSPATIALSTRUCTURE('0vMtjR$zXBnvJ6SZLkQBe0',#42,$,$,(#87520,#87588,#87452,#365718),#9536)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418133=IFCRELCONTAINEDINSPATIALSTRUCTURE('12jBeVK9j8TQop8k5us86l',#42,$,$,(#198609,#198663,#205276,#205168,#205222,#205114,#205059,#204748,#289838,#289778,#290363,#290417,#289892,#289954,#290309,#366420),#5871)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418294=IFCRELCONTAINEDINSPATIALSTRUCTURE('1P0$SJceH7vBFpJTmfgkGA',#42,$,$,(#365146),#10375)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418291=IFCRELCONTAINEDINSPATIALSTRUCTURE('1C7xYP71D5zB_eJ9LefefY',#42,$,$,(#366078),#10105)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418297=IFCRELCONTAINEDINSPATIALSTRUCTURE('22vuLJlePA9f1HPZ13jBI0',#42,$,$,(#365263),#10512)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418300=IFCRELCONTAINEDINSPATIALSTRUCTURE('1E4NDR2cH7xP4jfOioyzFE',#42,$,$,(#365380),#10649)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#417993=IFCRELCONTAINEDINSPATIALSTRUCTURE('2hHVGEC$59wxOZYVu6k235',#42,$,$,(#279031,#278869,#278805,#278751,#279139,#278923,#279085,#278977,#288392,#288506,#288568,#288452,#289031,#288923,#288977,#366188),#2873)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418303=IFCRELCONTAINEDINSPATIALSTRUCTURE('0rgl55CT58M9ENq0Otucl4',#42,$,$,(#366649),#10786)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418270=IFCRELCONTAINEDINSPATIALSTRUCTURE('05SnUFvsnC7PhTnFbPEUVu',#42,$,$,(#56237,#56101,#56169,#364760),#9399)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELASSOCIATESMATERIAL.ALLOWEDELEMENTS</MessageCode>
+      <Instance>#402730=IFCRELASSOCIATESMATERIAL('1D370pvcXFqvDkP5wmCKNy',#42,$,$,(#365263,#365380,#365362,#365127,#365146,#365245,#366631,#366649,#366748,#366766,#367000,#367099,#367117,#367329,#367347,#366883,#367232,#367444,#367214,#366982,#366865,#367462),#365129)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelassociatesmaterial.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELASSOCIATESMATERIAL.ALLOWEDELEMENTS' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#417962=IFCRELCONTAINEDINSPATIALSTRUCTURE('2Vv4_wQEHBJusUbztQrWKX',#42,$,$,(#259587,#259695,#259641,#259803,#259749,#261174,#261120,#261410,#297682,#297742,#298321,#298267,#297796,#297858,#297912,#364639),#2164)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418242=IFCRELCONTAINEDINSPATIALSTRUCTURE('3qOIvmmhr5sOetnGjWKrgM',#42,$,$,(#254231,#254069,#254123,#254005,#254285,#254177,#253371,#253951,#289145,#289199,#289670,#289261,#289724,#289315,#289085,#366534),#7967)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418267=IFCRELCONTAINEDINSPATIALSTRUCTURE('1LPwcpzbvCxBvH0lhHybTE',#42,$,$,(#364998),#9264)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418288=IFCRELCONTAINEDINSPATIALSTRUCTURE('3zxAtTQeX1eOtwqfSaEsoT',#42,$,$,(#365842),#9823)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418282=IFCRELCONTAINEDINSPATIALSTRUCTURE('1rXWvcIbLBQBTosx3RCn4X',#42,$,$,(#199525,#303849,#303917,#365954),#9673)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418102=IFCRELCONTAINEDINSPATIALSTRUCTURE('0oc54VwD56ZvggZFVzoreC',#42,$,$,(#156189,#235278,#235048,#235633,#235162,#235224,#235687,#235108,#235805,#235913,#235741,#236021,#235859,#235967,#288338,#366304),#4971)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418318=IFCRELCONTAINEDINSPATIALSTRUCTURE('2AGk3blsnBS9tTKg75qfzp',#42,$,$,(#367232),#11471)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418324=IFCRELCONTAINEDINSPATIALSTRUCTURE('21d42OVJ56hBjWpszm2iJB',#42,$,$,(#367462),#11745)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418315=IFCRELCONTAINEDINSPATIALSTRUCTURE('2UHmgJz$vFgeySLVbjlRU5',#42,$,$,(#367117),#11334)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418321=IFCRELCONTAINEDINSPATIALSTRUCTURE('31dKUpKXj2H9vpgd6Vil0Q',#42,$,$,(#367347),#11608)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418306=IFCRELCONTAINEDINSPATIALSTRUCTURE('3HEHjcsxz97v7JRZtrxf4T',#42,$,$,(#366766),#10923)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418312=IFCRELCONTAINEDINSPATIALSTRUCTURE('3lGha3Oz92sOXB2rkVmmFO',#42,$,$,(#367000),#11197)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31</MessageCode>
+      <Instance>#418309=IFCRELCONTAINEDINSPATIALSTRUCTURE('0EbxQSV897y9BbWeKirMsk',#42,$,$,(#366883),#11060)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifcproductextension/lexical/ifcrelcontainedinspatialstructure.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCRELCONTAINEDINSPATIALSTRUCTURE.WR31' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+  </MVDMessageSet>
+</MVDReport>
