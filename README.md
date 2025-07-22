@@ -9,6 +9,10 @@ Wir wollen die Prüfung der IFC-Modelle so vereinfachen, dass auch der Laie die 
 **Lösung:**<br>
 Wir haben begonnen, die im IFC-Schema definierten Regeln in eine für den Anwender verständliche Sprache zu übersetzen. 
 Alle Regeln sind in einer Tabelle mit weiteren Hinweisen zusammengefasst und können zur Erläuterung der Prüfergebnisse herangezogen werden.<br><br>
+Die tabellarische Aufbereitung unter anderem mit der Benennung der Fehler (WR aus dem Schema), 
+der Übersetzung der IFC-Dokumentation, einer Einschätzung zur Art (falsche Eingabe durch den Anwender oder Exportfehler durch die Software) 
+sowie mögliche Schritte zur Behebung des Fehlers sind an einem Beispiel gezeigt.  
+![Beispiel für die tabellarische Aufbereitung](https://github.com/bimhelden/basic-ifc-testing/blob/main/Beispiel.png)<br><br>
 Die mögliche Nutzung der Übersetzungstabelle zeigt ein Programm, das die Prüfergebnisse des frei verfügbaren [ifcCheckingTool](www.iai.kit.edu/ifc) von KIT in eine Excel-Tabelle überträgt.
 
 **Selbst ausprobieren:**<br>
